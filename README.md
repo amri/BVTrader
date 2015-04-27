@@ -1,12 +1,12 @@
-An experiment on Bullion Vault XML API with following features: <br>
-1. View Market <br>
-2. Authenticate <br>
-3. Charting <br>
-4. Place an Order <br>
-5. Cancel an Order <br>
-6. View Balance <br>
-7. View Orders <br>
-8. View Single Order <br>
-9. View weight unit setting <br>
-10. Update weight unit setting <br>
-11. Technical Analysis <br>
+An experiment on Bullion Vault XML API with following features: 
+* View Market 
+* Authenticate
+* Charting 
+* Place an Order 
+* Cancel an Order 
+* View Balance 
+* View Orders 
+* View Single Order 
+* View weight unit setting 
+* Update weight unit setting 
+* Technical Analysis 
