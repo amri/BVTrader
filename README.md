@@ -1,3 +1,5 @@
+! It still have quirks on getting response for requests which require authenticated cookies
+
 An experiment on Bullion Vault XML API with following features: 
 * View Market 
 * Authenticate
